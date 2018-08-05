@@ -53,7 +53,7 @@ class Toast {
      * Static alias for constructor
      */
     public static function make(...$params) {
-        return new self(...$params);
+        return new static(...$params);
     }
 
     /**
