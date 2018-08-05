@@ -1,0 +1,26 @@
+{
+    "name": "tegimus/php-izitoast",
+    "description": "A simple php wrapper for the iziToast javascript library",
+    "keywords": [
+        "izitoast",
+        "popup",
+        "notification"
+    ],
+    "authors": [
+        {
+            "name": "Tegimus",
+            "email": "tegimus@gmail.com"
+        }
+    ],
+    "license": [
+        "GPL-3.0"
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tegimus\\IziToast\\": "src/"
+        }
+    }
+}
