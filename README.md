@@ -11,7 +11,7 @@ composer require tegimus/php-izitoast
 ```
 
 ##### Manual
-You can also use the package class file [src/Toast.php](https://github.com/tegimus/php-izitoast/blob/master/src/Toast.php) directly in your project since it has no other dependencies.
+You can also use the package class file [src/Toast.php](src/Toast.php) directly in your project since it has no other dependencies.
 
 ### Adding the iziToast library files
 Download the latest iziToast javascript and stylesheet files from [iziToast github repository](https://github.com/dolce/iziToast/archive/master.zip).
@@ -122,3 +122,6 @@ $toast->clear();
 ```
 
 All types and options available for the iziToast library are documented [here](http://izitoast.marcelodolce.com).
+
+### Extending the Toast class
+[Read here](README.md) to know more about extending and customizing the Toast class
