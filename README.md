@@ -124,4 +124,4 @@ $toast->clear();
 All types and options available for the iziToast library are documented [here](http://izitoast.marcelodolce.com).
 
 ### Extending the Toast class
-[Read here](README.md) to know more about extending and customizing the Toast class
+[Read here](EXTENDING.md) to know more about extending and customizing the Toast class
